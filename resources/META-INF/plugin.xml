@@ -1,8 +1,8 @@
 <idea-plugin>
-  <id>com.your.company.unique.plugin.id</id>
+  <id>com.maliotis.pansy</id>
   <name>Pansy</name>
   <version>1.0</version>
-  <vendor email="maliotis12@gmail.com" url="http://www.none.com">Maliotis</vendor>
+  <vendor email="maliotis12@gmail.com" url="https://github.com/Maliotis/Pansy">Maliotis</vendor>
 
   <description>Pansy scheme inspired from the android developers site and the flower pansy</description>
 
